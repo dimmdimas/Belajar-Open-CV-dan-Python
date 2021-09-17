@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm MUHMMAD DIMAS RENALDI</h1>
 
-<h3 align="center">Orbit-AI-Gen-Y</h3>
+<h3 align="center">Python & Open CV</h3>
 <h4 align="center"></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimmdimas&label=Profile%20views&color=0e75b6&style=flat" alt="dimmdimas" /> </p>
